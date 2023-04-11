@@ -2,7 +2,7 @@
 My Name is Ash (she/they) and I specialize in Cyber Security.
 
 #### :office: Work Experience
-- Check out my [LinkedIn](https://www.linkedin.com/in/ash-napier/). I have over 3 years experience in Cyber Security with a strong background in technical support. 
+- Check out my [LinkedIn](https://www.linkedin.com/in/ash-napier/). I have over 4 years experience in Cyber Security with a strong background in technical support. 
 
 #### :school: Education
 - :trophy:  Check out my [Credly Badges](https://www.credly.com/users/ash-napier/badges). I have Associate of (ISC)<sup>2</sup>, CompTIA Security+, and Cyber Security Analyst+ certifications.
